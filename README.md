@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
 | [0767-reorganize-string](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
