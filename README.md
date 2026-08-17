@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
