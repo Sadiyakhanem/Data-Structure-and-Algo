@@ -115,6 +115,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
