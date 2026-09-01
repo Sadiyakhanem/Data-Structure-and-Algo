@@ -148,19 +148,26 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
