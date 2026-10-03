@@ -17,17 +17,17 @@ class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         boolean flag = false;
         int sum=0;
-      boolean ans=  sumfind(root,targetSum,0,flag);
+      boolean ans=  sumfind(root,targetSum,0);
 
         return ans;
 
     }
-    public boolean sumfind(TreeNode root, int targetSum,int sum ,boolean flag)
+    public boolean sumfind(TreeNode root, int targetSum,int sum )
     {
        
         if(root==null)
         {
-            return flag;
+            return false;
         }
          sum+=root.val;
         if(root.left==null && root.right ==null)
@@ -39,8 +39,8 @@ class Solution {
             }
              
         }
-        return sumfind(root.left,targetSum,sum,flag)||
-        sumfind(root.right,targetSum,sum,flag);
+        return sumfind(root.left,targetSum,sum)||
+        sumfind(root.right,targetSum,sum);
         
 
     }
