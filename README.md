@@ -159,6 +159,7 @@
 | [0113-path-sum-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -181,6 +182,7 @@
 | [0113-path-sum-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -190,9 +192,14 @@
 | [0113-path-sum-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
