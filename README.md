@@ -151,6 +151,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -176,6 +177,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -190,6 +192,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0113-path-sum-ii) |
@@ -200,6 +203,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
