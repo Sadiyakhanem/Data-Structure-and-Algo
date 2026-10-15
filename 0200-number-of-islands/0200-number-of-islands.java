@@ -30,11 +30,11 @@ class Solution {
     public int numIslands(char[][] grid) {
         //rows
         int n = grid.length;
-        if(grid==null || grid.length==0)
+        // if(grid==null || grid.length==0)
 
-        {
-            return 0;
-        }
+        // {
+        //     return 0;
+        // }
         //col
         int res=0;
         int m = grid[0].length;
