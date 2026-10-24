@@ -183,6 +183,7 @@
 | [0200-number-of-islands](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -215,6 +216,7 @@
 | [0226-invert-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,4 +231,17 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
