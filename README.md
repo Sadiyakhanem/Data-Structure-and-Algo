@@ -37,6 +37,7 @@
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0743-network-delay-time](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -194,6 +196,7 @@
 | [0743-network-delay-time](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -230,6 +233,7 @@
 | [0743-network-delay-time](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -252,6 +256,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -264,6 +269,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
