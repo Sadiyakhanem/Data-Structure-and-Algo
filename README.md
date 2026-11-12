@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -148,6 +150,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
