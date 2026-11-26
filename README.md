@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0778-swim-in-rising-water) |
@@ -39,6 +40,7 @@
 | [0070-climbing-stairs](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -291,4 +293,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0127-word-ladder) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
