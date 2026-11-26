@@ -16,6 +16,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0778-swim-in-rising-water) |
@@ -41,6 +42,7 @@
 | [0198-house-robber](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -163,6 +165,7 @@
 | [0022-generate-parentheses](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -297,8 +300,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
