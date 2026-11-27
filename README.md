@@ -45,6 +45,7 @@
 | [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0127-word-ladder](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0767-reorganize-string](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -306,4 +308,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sadiyakhanem/Data-Structure-and-Algo/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
